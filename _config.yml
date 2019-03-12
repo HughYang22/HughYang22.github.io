@@ -65,8 +65,8 @@ gitalk:
   clientID: aac000f0eb54e624fd19                            #生成的clientID
   clientSecret: 80213e59baf05b4be867d2c0558f1a89b6207a70    #生成的clientSecret
   repo: HughYang22.github.io   #仓库名称
-  owner: HughYang    #github用户名
-  admin: HughYang
+  owner: HughYang22    #github用户名
+  admin: HughYang22
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
